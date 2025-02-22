@@ -1,0 +1,3 @@
+ Library Installation:
+Open Arduino IDE → Sketch → Include Library → Manage Libraries.
+Search for "LedControl" by Eberhard Fahle and install it
